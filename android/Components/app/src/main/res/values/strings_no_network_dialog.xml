@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_network_message">Puhelimesi verkkoyhteys ei ole päällä. ePassi-palvelun käyttö vaatii verkkoyhteyden.</string>
+    <string name="no_network_title">Ei verkkoyhteyttä</string>
+    <string name="no_network_button_label">Näytä verkkoasetukset</string>
+    <string name="no_network_button_finish">Lopeta</string>
+</resources>
